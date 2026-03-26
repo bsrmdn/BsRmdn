@@ -33,15 +33,12 @@ Here are some ideas to get you started:
 
 ###
 
-  I'm Bastiar Ramadan from Indonesia
-  
-  - 🔭 I’m working as Web Developer
-  - 📚 I'm currently learning ReactJs
+  I'm just wandering around
   - 📫 How to reach me bastiarramadan76@gmail.com
 <br>
 
 ###
-
+<!--
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -92,7 +89,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <br>
-
+-->
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
